@@ -3,3 +3,4 @@ node_js:
   - 7
 script: 
   node test.js
+  node file1.js
